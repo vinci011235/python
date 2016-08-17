@@ -1,5 +1,6 @@
 '''
-author vinci011235
+author Elvis Soares Gomes
+codigo disponivel em github.com/vinci011235/python
 '''
 def multiplicar(matrizA, matrizB):
 	quantL = len(matrizA)
