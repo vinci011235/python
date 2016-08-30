@@ -14,7 +14,7 @@ try:
 	   print '\nA sigla do estado deve ter duas letras!\n'
 	   exit(1)
 
-	#Formata a URL da cidade, garantindo que as siglas do estado serão maiúsculas	
+	#Formata a URL	
 	url = site + estado + '/' + cidade
 	print ' > Conectando-se a %s...' % url
 
